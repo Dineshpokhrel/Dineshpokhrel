@@ -12,10 +12,10 @@ I'm a Backend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer S
 <p align="center">
  
 
-[![Instagram Badge](https://img.shields.io/badge/-@dineshp0khrel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dineshp0khrel/)](https://www.instagram.com/ashishpaudel1/)
-[![Gmail Badge](https://img.shields.io/badge/-dineshpokhrel001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshpokhrel001@gmail.com)](mailto:ashishpaudel54@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-dineshpokhrel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dineshpokhrel/)](https://www.linkedin.com/in/dineshpokhrel/)
-[![Facebook Badge](https://img.shields.io/badge/-@dineshp0khrel-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/dineshp0khrel/ "Contact on Facebook")
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dineshpokhrel/)](https://www.linkedin.com/in/dineshpokhrel/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dineshpokhrel001@gmail.com)](mailto:dineshpokhrel001@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dineshp0khrel/)](https://www.instagram.com/dineshp0khrel/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/dineshp0khrel/ "Contact on Facebook")
 </p>
 
 <a href="https://www.github.com/Dineshpokhrel" target="_blank" rel="noreferrer"><img
